@@ -1,6 +1,6 @@
 # editors-and-search-in-bash
 
-# Assignment
+## Assignment
 
                 
 1. Use the vi or nano file editor of your choice. In this assignment, you will need to do the work of writing code from the bash shell editor.
